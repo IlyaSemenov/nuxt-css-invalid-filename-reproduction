@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "nuxt": "^2.14.7"
+    "nuxt-edge": "^2.15.0-26788356.847d4ae0"
   }
 }
